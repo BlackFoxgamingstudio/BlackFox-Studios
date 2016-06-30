@@ -1,0 +1,17 @@
+{
+  "name": "elecron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start":"electron . main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Russell Powers",
+  "license": "ISC",
+  "dependencies": {
+    
+    "electron-prebuilt": "^1.2.5"
+  },
+  "devDependencies": {}
+}
